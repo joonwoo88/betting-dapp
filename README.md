@@ -1,29 +1,14 @@
-# net-dapp
+# 배팅 게임 Dapp
 
-## Project setup
-```
-yarn install
-```
+## 사용방법
+### npm install
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+### npm run serve
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### localhost:8080
 
-### Run your tests
-```
-yarn run test
-```
+### 화면 가운데 ETH 갯수 입력 후 1 ~ 5 선택.
 
-### Lints and fixes files
-```
-yarn run lint
-```
+### 랜덤값이랑 일치하면 배당률 40% 지급
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
