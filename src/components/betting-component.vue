@@ -1,6 +1,6 @@
 <template>
     <div class="betting">
-        <h1>GN 배팅</h1>
+        <h1>GN 배팅게임</h1>
         Amount: <input v-model="amount" placeholder="0 ether">
         <ul>
             <li v-on:click="_clickNumber">1</li>
